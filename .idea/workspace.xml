@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" name="Default" comment="" />
+    <ignored path="untitled.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../surykatka/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775108292" ignored="false" />
+    <file path="/RestDocConverter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369403252626" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/marshaller/StreamDocumentMessageConverter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782979953" ignored="false" />
+    <file path="/StreamDocumentMessageConverter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782975168" ignored="false" />
+    <file path="/RequestHandler.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793258942" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/RequestHandler.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793258942" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn/KnowledgeSynchronization/trunk/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368448182795" ignored="false" />
+    <file path="/Dummy.txt" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368779810119" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/controller/MainController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368448229857" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/marshaller/WordDocumentMessageConverter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368448229857" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/marshaller/PdfDocumentMessageConverter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368448229857" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/marshaller/CustomJaxbMarhaller.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368783885042" ignored="false" />
+    <file path="/a.dummy" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368785793355" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn/KnowledgeSynchronization/trunk/src/main/resources/applicationContext.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369402568790" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn/KnowledgeSynchronization/trunk/src/main/java/com/roche/knowledge/headless/HeadlessKnowledgeImportTool.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368453580817" ignored="false" />
+    <file path="/a.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368606817123" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/test/java/com/roche/FieldManipulationTest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368607773848" ignored="false" />
+    <file path="/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774996438" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/test/resources/db-test.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774132259" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/resources/xsd/request.xsd" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778286898" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/controller/BinaryMainController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368776748760" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/controller/Base64MainController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368715915703" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/webapp/WEB-INF/web.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775224750" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/webapp/META-INF/spring-ctx.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368715915703" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/webapp/META-INF/db-postgress.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368715915703" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/run.sh" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368715915703" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/model/StreamDocument.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368715915703" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/test/java/com/roche/SpringContextTest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781907922" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/craftware/cipeb/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368772276013" ignored="false" />
+    <file path="/Base64ImageRequest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368772022787" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/craftware/cipeb/logic/src/main/java/pl/craftware/saas/cipeb/business/floor/editing/Base64ImageRequest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368772040420" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/lib/installArtefact.bat" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368772968147" ignored="false" />
+    <file path="/installArtefact.bat" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368772961518" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368773090328" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/pom.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774386930" ignored="false" />
+    <file path="/web.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775224750" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/resources/application-ctx.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781320946" ignored="false" />
+    <file path="/application-ctx.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368773837460" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/resources/db-postgress.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368773770466" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/resources/mi-persistence.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774129479" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/test/resources/TABLES.sql" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774882736" ignored="false" />
+    <file path="/TABLES.sql" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368774864295" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/webapp/WEB-INF/dispatcher-servlet.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775288093" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/controller/Base64DocumentController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775791917" ignored="false" />
+    <file path="/SpringContextTest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781687993" ignored="false" />
+    <file path="/index.jsp" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775610096" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/webapp/index.jsp" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775610096" ignored="false" />
+    <file path="/Base64DocumentController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368775764437" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/aspose/LicenseInitializer.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368776185573" ignored="false" />
+    <file path="/request.xsd" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778280861" ignored="false" />
+    <file path="/PropertyEntity.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368776685278" ignored="false" />
+    <file path="/BinaryMainController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368776723559" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/web-module/src/main/java/com/roche/web/controller/DocumentController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368779090926" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/Property.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778306030" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/PropertyListResult.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793326747" ignored="false" />
+    <file path="/fragment.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369402337176" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/IRequestHandler.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778506286" ignored="false" />
+    <file path="/DocumentController.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368779071471" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/PdfRequest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793326747" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/PropertyListRequest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793326747" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/TemplateRequest.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793326747" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/target/generated-sources/xjc/com/roche/model/ObjectFactory.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368793326747" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/model/PdfDocument.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368784218654" ignored="false" />
+    <file path="/PdfDocument.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778416763" ignored="false" />
+    <file path="/IRequestHandler.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368778496765" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/model/WordDocument.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368784210855" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/converter/Base64Converter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368784869427" ignored="false" />
+    <file path="/Base64Converter.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368779738554" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/jpa/model/TemplateEntity.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781629150" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/jpa/repositorites/TemplateEnityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368780920659" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/jpa/repositorites/TemplateEntityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781429621" ignored="false" />
+    <file path="/TemplateEnityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781429621" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/jpa/repositorites/PropertyEnityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368780930637" ignored="false" />
+    <file path="/PropertyEnityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368780930637" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/jpa/repositorites/PropertyEntityRepository.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368780932278" ignored="false" />
+    <file path="/TemplateEntity.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368781614041" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/util/PropertiesUtil.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782000703" ignored="false" />
+    <file path="/PropertiesUtil.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782141408" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/util/Properties.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782141408" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/util/PropertyList.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368782142772" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/aspose/DocumentProcessing.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368783578241" ignored="false" />
+    <file path="/DocumentProcessing.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368783569983" ignored="false" />
+    <file path="$PROJECT_DIR$/../surykatka/backend-module/src/main/java/com/roche/aspose/WordProcessing.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1368784153751" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn/KnowledgeSynchronization/trunk/src/main/java/com/roche/knowledge/service/KnowledgeBaseSynchronizerImpl.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369402382521" ignored="false" />
+    <file path="/KnowledgeBaseSynchronizerImpl.java" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369401445834" ignored="false" />
+    <file path="/*.regexp" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369401263847" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn/KnowledgeSynchronization/trunk/KnowledgeSynchronization.log" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369402092183" ignored="false" />
+    <file path="/applicationContext.xml" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369402568790" ignored="false" />
+    <file path="/testupload.txt" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369403369039" ignored="false" />
+    <file path="/testpdf.txt" changelist="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" time="1369403658252" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="24" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestDocConverter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="58" selection-start="783" selection-end="783" vertical-scroll-proportion="0.3492823">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpEntityEnclosingRequestBase.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="36" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpEntity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar!/org/apache/http/HttpEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="17" selection-start="2764" selection-end="2764" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testpdf.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testpdf.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="69" selection-start="368385" selection-end="368385" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testupload.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testupload.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testupload.txt" />
+        <option value="$PROJECT_DIR$/testpdf.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/RestDocConverter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\code\roche\git\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RestDocConverter">
+    <configuration default="false" name="RestDocConverter" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RestDocConverter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.RestDocConverter" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.RestDocConverter" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2adb44ea-ad6b-46e1-82a6-ede9d6560c69" name="Default" comment="" />
+      <created>1368443917416</created>
+      <updated>1368443917416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1382" height="784" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2030303" sideWeight="0.7104" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="69" selection-start="1308" selection-end="1318" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="56" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="16" selection-start="493" selection-end="1579" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="23" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="556" selection-end="564" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.7/commons-codec-1.7-sources.jar!/org/apache/commons/codec/binary/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.085141905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar!/org/apache/http/HttpEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="17" selection-start="2764" selection-end="2764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="36" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testupload.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testpdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="69" selection-start="368385" selection-end="368385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestDocConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="58" selection-start="783" selection-end="783" vertical-scroll-proportion="0.3492823">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
